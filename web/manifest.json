@@ -1,0 +1,28 @@
+{
+<<<<<<< HEAD
+    "name": "kalyan",
+    "short_name": "kalyan",
+=======
+    "name": "reimburse_mobile",
+    "short_name": "reimburse_mobile",
+>>>>>>> cc227247236a059a78136a35c2750d6d5248eced
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

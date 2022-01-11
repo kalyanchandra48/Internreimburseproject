@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "313151275022",
+    "project_id": "reimburse-surfboard",
+    "storage_bucket": "reimburse-surfboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313151275022:android:214b38310542c52bc23c5f",
+        "android_client_info": {
+          "package_name": "com.example.reimburse_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313151275022-a8spajck2g16lqav7s45mq5la6sdq952.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGeyFyzMMbLE8r03DmjNOE-Py4zUY0MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313151275022-a8spajck2g16lqav7s45mq5la6sdq952.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313151275022-6dfsu9qvkvkt3sbu5sdbpt35ktdh4iku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reimburseMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
